@@ -1,5 +1,4 @@
-![code coverage badge](https://img.shields.io/badge/:badgeContent)
-
+![code coverage badge](https://github.com/BramLobbens/learn-cicd-starter/actions/workflows/Tests.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 

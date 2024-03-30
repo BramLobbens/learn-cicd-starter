@@ -11,7 +11,7 @@ func TestGetAPIKey(t *testing.T) {
 	testHeader := http.Header{
 		"Host":          {"www.host.com"},
 		"Content-Type":  {"application/json"},
-		"Authorization": {"ApiKey foo"},
+		"Authorization": {"ApiKey fooBar"},
 	}
 
 	gotRes, gotErr := auth.GetAPIKey(testHeader)
